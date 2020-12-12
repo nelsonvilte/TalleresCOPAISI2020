@@ -1,0 +1,16 @@
+Actividad
+
+Ladrillos
+
+Cambiar el fondo del juego; cambiando el color y luego buscar una imagen y usarla de fondo. Tener en cuenta que será más fácil si la imagen se encuentra en la misma carpeta que el archivo que contiene el código.
+Cambiar el tipo de letra de los textos que aparecen.
+Intercambiar la ubicación de los textos.
+Separar  más el muro de los textos.
+Hacer rebotar la pelotita cuando llegue arriba.######
+
+Shooter
+
+Cambiar el color de la barra de vida.
+Cambiar la posición de inicio del jugador.
+Cambiar los controles de juego, para que el jugador se pueda desplazar con el mouse.
+Agregar música al juego
